@@ -1,0 +1,54 @@
+@use 'variables' as vars;
+
+.main-layout {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+body {
+    background: vars.$main-background-color;
+    color: vars.$main-text-color;
+    font-family: vars.$default-font;
+}
+
+h1 {
+    font-size: vars.$h1-font-size;
+    line-height: vars.$h1-line-height;
+}
+
+h2 {
+    font-size: vars.$h2-font-size;
+    line-height: vars.$h2-line-height;
+}
+
+h3 {
+    font-size: vars.$h3-font-size;
+    font-size: vars.$h3-line-height;
+}
+
+h4 {
+    font-size: vars.$h4-font-size;
+    font-size: vars.$h4-line-height;
+}
+
+h5 {
+    font-size: vars.$h5-font-size;
+    font-size: vars.$h5-line-height;
+}
+
+h6 {
+    font-size: vars.$h6-font-size;
+    font-size: vars.$h6-line-height;
+}
+
+p {
+    font-size: vars.$default-text-size;
+    margin-bottom: 0.25rem;
+    line-height: vars.$p-line-height;
+    letter-spacing: vars.$p-letter-spacing;
+}
+
+li {
+    margin-bottom: 0.5rem;
+}
