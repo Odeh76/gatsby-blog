@@ -4,7 +4,7 @@ import './styles.scss'
 function Footer() {
   return (
     <footer className='footer'>
-      <ul className='flex'>
+      <ul className='flex wrap'>
         <li><a className='link mr-1' href='' target="_blank">Twitter</a></li>
         <li><a className='link mr-1' href='' target="_blank">Facebook</a></li>
         <li><a className='link mr-1' href='' target="_blank">Instagram</a></li>

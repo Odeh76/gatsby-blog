@@ -1,7 +1,7 @@
 @use 'variables' as vars;
 
 .main-layout {
-    max-width: 960px;
+    max-width: 1180px;
     margin: 0 auto;
     padding: 0 1rem;
 }
@@ -15,6 +15,18 @@ body {
 h1 {
     font-size: vars.$h1-font-size;
     line-height: vars.$h1-line-height;
+}
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: vars.$h1-mobile-font-size;
+        line-height: vars.$h1-mobile-line-height;
+    }
+
+    h5 {
+        font-size: vars.$h5-mobile-font-size;
+        line-height: vars.$h5-mobile-line-height;
+    }
 }
 
 h2 {
@@ -36,6 +48,17 @@ h5 {
     font-size: vars.$h5-font-size;
     font-size: vars.$h5-line-height;
 }
+
+@media (max-width: 768px) {
+
+    h5 {
+        font-size: vars.$h5-mobile-font-size;
+        line-height: vars.$h5-mobile-line-height;
+    }
+}
+
+
+
 
 h6 {
     font-size: vars.$h6-font-size;
