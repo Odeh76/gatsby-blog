@@ -6,7 +6,7 @@ const Home = () => {
         <h5 className="mb-3">Hello! My name is</h5>
         <h1 className="mb-3 bold uppercase">Abdullah Odeh.</h1>
         <h5 className="mb-3">I'm a Web Developer based in Los Angeles, CA.</h5>
-        <button className="main-btn">Connect</button>
+        <a href="mailto:abdullahsayshello@gmail.com" target="_blank" className="main-btn">Connect</a>
     </Layout>
   )
 }
