@@ -106,3 +106,10 @@
 p {
     text-align: justify;
 }
+
+@media (max-width: 768px) {
+    p {
+        text-align: left;
+    }
+    
+}
