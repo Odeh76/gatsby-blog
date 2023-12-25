@@ -77,15 +77,27 @@
     margin-bottom: 3rem;
 }
 
+.nav-link {
+    color: $main-text-color;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+}
+
 .link {
     color: $main-text-color;
     text-decoration: none;
-    font-weight: 700;
     text-transform: uppercase;
+    font-weight: 700;
 }
 
 .link:hover {
-    text-decoration: underline;
+    transition: all 0.3s ease-in-out;
+    color: #6a6ab9;
 }
 
 .blog-link {
