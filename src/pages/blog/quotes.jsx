@@ -6,11 +6,6 @@ function Quotes() {
     <Layout>
       <h6 className='mb-2'>Quotes that have resonated with me</h6>
       <blockquote>
-        <p>"All great and precious things are lonely.”
-          <cite> - John Steinbeck, <i>East of Eden</i></cite>
-        </p>
-      </blockquote>
-      <blockquote>
         <p>“There's more beauty in truth, even if it is dreadful beauty.”
           <cite> - John Steinbeck, <i>East of Eden</i></cite>
         </p>
