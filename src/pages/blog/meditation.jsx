@@ -13,28 +13,28 @@ function Meditation() {
         </p>
         <p>Here are some palpable benefits that I experience when meditating consistently:</p>
         <ol>
-        <li>Easier to focus</li>
-        <li>More relaxed</li>
-        <li>Peaceful state of mind</li>
-        <li>Less reactive</li>
-        <li>Better emotional health</li>
-        <li>Less impulsive</li>
-        <li>Better able to control cravings</li>
-        <li>Better sleep</li>
-        <li>Better communication with yourself and your wife and relationships.</li>
-        <li>Insight</li>
-        <li>Better creativity</li>
-        <li>Better problem solving</li>
-        <li>Improved learning</li>
-        <li>Less mind wandering</li>
-        <li>More present</li>
-        <li>More aware</li>
-        <li>Helps get rid of, if not cure, anhedonia</li>
-        <li>More appreciation for the simple things.</li>
-        <li>Better relationship with yourself</li>
-        <li>Gives you time to get to know yourself</li>
-        <li>Easier to read, goes back to easier to focus</li>
-        <li>More acceptance</li>
+          <li>Easier to focus</li>
+          <li>More relaxed</li>
+          <li>Peaceful state of mind</li>
+          <li>Less reactive</li>
+          <li>Better emotional health</li>
+          <li>Less impulsive</li>
+          <li>Better able to control cravings</li>
+          <li>Better sleep</li>
+          <li>Better communication with yourself and your wife and relationships.</li>
+          <li>Insight</li>
+          <li>Better creativity</li>
+          <li>Better problem solving</li>
+          <li>Improved learning</li>
+          <li>Less mind wandering</li>
+          <li>More present</li>
+          <li>More aware</li>
+          <li>Helps get rid of, if not cure, anhedonia</li>
+          <li>More appreciation for the simple things.</li>
+          <li>Better relationship with yourself</li>
+          <li>Gives you time to get to know yourself</li>
+          <li>Easier to read, goes back to easier to focus</li>
+          <li>More acceptance</li>
         </ol>
         <p>Personally, I don't see a downside to cultivating this habit. It’s a rare thing to come across something that is so net positive, costs nothing, and makes me a better human being. When I find something like that, it’s worth practicing more of it and preserving it. It’s worth being grateful for and appreciating the privilege of being able to meditate. </p>
     </Layout>

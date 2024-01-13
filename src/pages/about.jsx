@@ -15,9 +15,6 @@ function About() {
   )
 }
 
-// Name, where you're based, where you're from, college, spent last 8 years in baym then moved to LA
-// talk about fitness, meditation, reading, didgeridoo
-
 export default About
 
 export const Head = () => <title>About | Abdullah Odeh</title>
