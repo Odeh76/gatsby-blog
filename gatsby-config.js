@@ -4,7 +4,7 @@
 module.exports = {
   siteMetadata: {
     title: `Abdullah Gatsby Blog`,
-    siteUrl: `https://www.yourdomain.tld`
+    siteUrl: `https://www.abdullahodeh.com`
   },
   plugins: ["gatsby-plugin-sass", "gatsby-plugin-image", "gatsby-plugin-sitemap", "gatsby-plugin-sharp", "gatsby-transformer-sharp", {
     resolve: 'gatsby-source-filesystem',
