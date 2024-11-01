@@ -7,8 +7,10 @@ function Blog() {
     <Layout>
       <h5 className='mb-2'>Things I've written about:</h5>
       <div className="flex-col">
+        <h6 className='mb-2'><Link className='blog-link' to='/blog/didgeridoo'>Vipassana</Link></h6>
         <h6 className='mb-2'><Link className='blog-link' to='/blog/meditation'>Meditation</Link></h6>
         <h6 className='mb-2'><Link className='blog-link' to='/blog/quotes'>Quotes</Link></h6>
+        <h6 className='mb-2'><Link className='blog-link' to='/blog/didgeridoo'>Didgeridoo</Link></h6>
       </div>
     </Layout>
   )
