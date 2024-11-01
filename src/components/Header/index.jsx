@@ -9,10 +9,6 @@ function Header() {
         <div>
           <li><Link className='nav-link' to='/'>Home</Link></li>
         </div>
-        <div className='flex'>
-          <li><Link className='nav-link mr-1' to='/about'>About</Link></li>
-          <li><Link className='nav-link' to='/blog'>Blog</Link></li>
-        </div>
       </ul>
     </nav>
   )
